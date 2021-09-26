@@ -1,6 +1,6 @@
 {
-  "name": "create-react-ts-less-app",
-  "version": "1.0.4",
+  "name": "create-react-ts-less-app-v1",
+  "version": "2.0.0",
   "description": "a scaffold of React.js + TypeScript + Webpack5 ",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
     "start": "webpack serve --config scripts/webpack.config.js --open",
     "build": "webpack --config scripts/webpack.prod.js"
   },
+  "homepage": "https://github.com/six-face/Create-React-TS-App",
   "bin": {
     "create-react-ts-less-app-v1": "./bin/create-react-ts-less-app-v1.js"
   },
