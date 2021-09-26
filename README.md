@@ -6,6 +6,7 @@ Supporting css modules, static files(images) as modules without any type error,u
 Getting started
 
 ```
+npm install
 npm run start
 ```
 
