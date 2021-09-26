@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "lib": ["esnext", "dom"],
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    // support new react compiler that no need to import 'react' in the scope
+    "jsx": "react-jsxdev"
+  }
+}
