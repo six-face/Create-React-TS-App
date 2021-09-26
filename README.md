@@ -15,7 +15,7 @@ Building
 npm run build
 ```
 
-PS: if you use VSCode and gets an error of use ```'--jsx' flag``` before writing jsx, please change the TypeScript version to ```workspace version```
+PS: if you use VSCode and get an error of use ```'--jsx' flag``` before writing jsx, please change the TypeScript version to ```workspace version```
 <br/>
 <br/>
 Enjoy : )
