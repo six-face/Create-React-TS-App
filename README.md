@@ -6,7 +6,14 @@ Supporting css modules, static files(images) as modules without any type error,u
 Getting started
 
 ```
-npm install
+npx create-react-ts-less-app-v1 <your project name> (eg. npx create-react-ts-less-app-v1 my-app)
+```
+
+```
+cd <your project name>
+```
+
+```
 npm run start
 ```
 
@@ -16,8 +23,7 @@ Building
 npm run build
 ```
 
-PS: if you use VSCode and get an error of use ```'--jsx' flag``` before writing jsx, please change the TypeScript version to ```workspace version```
+PS: if you use VSCode and get an error of use `'--jsx' flag` before writing jsx, please change the TypeScript version to `workspace version`
 <br/>
 <br/>
 Enjoy : )
-

@@ -1,6 +1,6 @@
 {
-  "name": "create-react-ts-less-app-v1",
-  "version": "1.0.2",
+  "name": "create-react-ts-less-app",
+  "version": "1.0.3",
   "description": "a scaffold of React.js + TypeScript + Webpack5 ",
   "main": "index.js",
   "scripts": {
