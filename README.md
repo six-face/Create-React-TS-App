@@ -6,11 +6,11 @@ Supporting css modules, static files(images) as modules without any type error,u
 Getting started
 
 ```
-npx create-react-ts-less-app-v1 <your project name> (eg. npx create-react-ts-less-app-v1 my-app)
+npx create-react-ts-less-app-v1 my-app
 ```
 
 ```
-cd <your project name>
+cd my-app
 ```
 
 ```
