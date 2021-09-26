@@ -1,6 +1,6 @@
 {
-  "name": "create-react-ts-less-app",
-  "version": "1.0.0",
+  "name": "create-react-ts-less-app-v1",
+  "version": "1.0.1",
   "description": "a scaffold of React.js + TypeScript + Webpack5 ",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,9 @@
     "dev": "webpack --config scripts/webpack.config.js",
     "start": "webpack serve --config scripts/webpack.config.js --open",
     "build": "webpack --config scripts/webpack.prod.js"
+  },
+  "bin": {
+    "create-react-ts-less-app-v1": "./some-file.js"
   },
   "keywords": [
     "scaffold/template",
